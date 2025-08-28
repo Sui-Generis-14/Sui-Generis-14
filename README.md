@@ -1,4 +1,5 @@
-## Hi there 👋
+##  👋 Hi! I'm Sneha Uppu
+I'm a Computer Science graduate student at The George Washington University with a strong focus on **Data Analytics, Data Science,** and **AI-driven solutions**. I love transforming complex data into actionable insights and building intelligent systems that not only solve real-world problems but also create positive social impact. From developing ML models to exploring generative AI and cloud-based solutions, I enjoy pushing boundaries, learning every step of the way, and applying data in ways that drive meaningful change. 
 
 <!--
 **Sui-Generis-14/Sui-Generis-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

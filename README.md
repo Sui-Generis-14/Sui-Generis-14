@@ -34,10 +34,10 @@ Always learning and picking the right tool for the problem.
 ## 🚀 Featured Projects
 
 **Similar Image Finder** <br>
-Team project: we embedded 21k+ Unsplash photos with CLIP ViT-B/32, then used KNN (cosine) to return the top-6 nearest images for any query; evaluated on 1,000 queries with ~0.91 average similarity. Implemented in PyTorch + scikit-learn with Matplotlib visualizations. It’s useful for visual search, content discovery, deduplication, and mood-board building.
+Team project: we embedded 21k+ Unsplash photos with CLIP ViT-B/32, then used KNN (cosine) to return the top-6 nearest images for any query; evaluated on 1,000 queries with nearly 0.91 average similarity. Implemented in PyTorch and scikit-learn with Matplotlib visualizations. It’s useful for visual search, content discovery, deduplication, and mood-board building.
 
 **MATLAB Image Processing** <br>
-Built from personal interest (not a group project): I created a lightweight MATLAB pipeline to clean and analyze images end-to-end—preprocessing (resize/denoise, RGB→Lab), segmentation (Otsu + morphological ops), feature extraction (color/texture), and simple classifiers (KNN/SVM) to label regions and compute counts/areas. It’s useful when you need quick, explainable measurements—e.g., tracking color changes, counting objects, or flagging anomalies—without heavy deep-learning infrastructure.
+Built from personal interest (not a group project): I created a lightweight MATLAB pipeline to clean and analyze images end-to-end—preprocessing (resize/denoise, RGB→Lab), segmentation (Otsu + morphological ops), feature extraction (color/texture), and simple classifiers (KNN/SVM) to label regions and compute counts/areas. It’s useful when you need quick, explainable measurements like tracking color changes, counting objects, or flagging anomalies — without heavy deep-learning infrastructure.
 
 ## 📫 Connect
 

@@ -12,6 +12,10 @@ I'm a Computer Science graduate student at The George Washington University with
 
 ## 💼 Experience
 
+**Data Science Intern**, *Thaddeus Resource Center*(Nov 2025 - Present)<br>
+As a Data Science Intern at Thaddeus Resource Center, I work with real-world, multi-source program data to support impact analysis and decision-making. My responsibilities include designing and refining data collection frameworks, cleaning and integrating intake forms, case notes, and engagement records, and performing exploratory data analysis to uncover trends in client engagement and service outcomes. I also develop analytical and machine learning workflows and create dashboards and visualizations to communicate insights to non-technical stakeholders, collaborating closely with cross-functional teams to translate ambiguous program questions into data-driven solutions.
+
+
 **Data Support Assistant**, *GWU Libraries* (Jan 2025 – Present) <br>
 At GWU Libraries, I analyzed borrowing and circulation data to surface student demand, guiding acquisitions and partner sourcing. I processed nearly 50,000 rows of e-resource usage in Excel (filters, aggregations, lookups) to highlight trends, and structured/validated transaction logs to improve accuracy on overdues, fines, and availability. I also improved dataset organization for researchers and helped design a systematic collection-maintenance approach based on usage histories.
 

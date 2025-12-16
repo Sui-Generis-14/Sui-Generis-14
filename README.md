@@ -20,10 +20,10 @@ At PwC, I extracted, cleaned, and organized 10,000+ Salesforce CRM records to im
 
 ## 🧰 Tech Toolbox
 
-- **Languages:**	Java,	Python,	HTML,	CSS,	JavaScript,	Machine	Learning,	R	Programming,	SQL	
+- **Languages:**	Python,	SQL, Java, HTML,	CSS,	JavaScript,	Machine	Learning,	R	Programming
 - **Data	Engineering:**	ETL, Data Pipeline,	BeautifulSoup(Web	Scraping)	
-- **Data	Science:**	Pandas,	NumPy,	Scikit-learn,	matplotlib,	seaborn	
-- **Database	Systems:**	MySQL	
+- **Data	Science:**	pandas,	NumPy,	Scikit-learn,	matplotlib,	seaborn,  Tensorflow, keras, PyTorch
+- **Database	Systems:**	MySQL, PostgreSQL
 - **Tools	&	Platforms:**	Colab,	VS	Code,	Microsoft	Office,	Salesforce,	Jira,	Tableau,	PowerBI,	MATLAB,	APIs,	Streamlit
 - **Version Control:** Github
 - **Soft	Skills:**	Team	Collaboration,	Problem-Solving,	Communication	(Written	and	Verbal),	Adaptability	,	Time Management,	Leadership	
@@ -33,11 +33,17 @@ Always learning and picking the right tool for the problem.
 
 ## 🚀 Featured Projects
 
+**FAERS Drug Safety & Pharmacovigilance Analysis**<br>
+End-to-end data engineering and analytics pipeline built on the FDA Adverse Event Reporting System (FAERS) to uncover drug–symptom patterns, drug–drug interactions, and dose–response relationships using real-world post-marketing data. <br>
+- Processed millions of FAERS adverse event reports across multiple quarterly releases.
+- Cleaned and standardized messy real-world data including drug names, dosages, units, and demographics.
+- Implemented SQL-based association analysis (support, confidence, lift) to identify symptom co-occurrence patterns.
+- Analyzed drug–drug interaction risks using synergy ratios.
+- Conducted dose–response analysis using Spearman correlation and logistic regression.
+- Built interactive dashboards to explore safety signals and trends.
+
 **Similar Image Finder** <br>
 Team project: we embedded 21k+ Unsplash photos with CLIP ViT-B/32, then used KNN (cosine) to return the top-6 nearest images for any query; evaluated on 1,000 queries with nearly 0.91 average similarity. Implemented in PyTorch and scikit-learn with Matplotlib visualizations. It’s useful for visual search, content discovery, deduplication, and mood-board building.
-
-**MATLAB Image Processing** <br>
-Built from personal interest (not a group project): I created a lightweight MATLAB pipeline to clean and analyze images end-to-end—preprocessing (resize/denoise, RGB→Lab), segmentation (Otsu + morphological ops), feature extraction (color/texture), and simple classifiers (KNN/SVM) to label regions and compute counts/areas. It’s useful when you need quick, explainable measurements like tracking color changes, counting objects, or flagging anomalies — without heavy deep-learning infrastructure.
 
 ## 📫 Connect
 
